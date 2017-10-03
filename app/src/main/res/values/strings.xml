@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleCoffeeOrderTestProject</string>
+    <string name="coffee_price">Coffee: $%.1f</string>
+    <string name="price">$%.1f</string>
+    <string name="total_price">Total price: $%.1f</string>
+    <string name="increment_label">+</string>
+    <string name="decrement_label">-</string>
+    <string name="default_coffee_count">0</string>
+    <string name="pay">Pay</string>
+    <string name="message_more_coffee">Please order more coffee</string>
+
+    <string name="ingredients">Ingredients</string>
+    <string name="price_label">Price</string>
+    <string name="deliver_message_hint">Enter your name</string>
+    <string name="deliver_to_username">Deliver to %s</string>
+</resources>
